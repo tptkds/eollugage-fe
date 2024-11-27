@@ -145,7 +145,28 @@
 
 ### [근무 관리]
 
-s
+#### 근무 추가
+<img src="https://github.com/user-attachments/assets/f5a010e2-d9fc-4af2-bca4-8b8a6fab8a64" alt="근무 추가 이미지" width="270px">
+근무 추가 버튼을 통해 직원의 근무 기록을 추가할 수 있어요.
+
+---
+
+#### 근무 수정
+<img src="https://github.com/user-attachments/assets/084b6261-5284-40f0-8ef6-93c7fecc7704" alt="근무 수정 이미지" width="270px">
+근무 기록을 클릭해 직원의 근무 기록을 수정할 수 있어요.
+
+---
+
+#### 출근 처리
+<img src="https://github.com/user-attachments/assets/a8c24451-42ca-4071-9875-bcd8842fbf9f" alt="출근 처리 이미지" width="270px">
+출근 처리 버튼을 클릭해 직원의 출근을 처리할 수 있어요.
+
+---
+
+#### 퇴근 처리
+<img src="https://github.com/user-attachments/assets/29336ff8-01d3-4e46-a279-e79710a8d09e" alt="퇴근 처리 이미지" width="270px">
+퇴근 처리 버튼을 클릭해 직원의 퇴근을 처리할 수 있어요.
+
 
 ### [마이페이지]
 
